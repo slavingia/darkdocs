@@ -1,0 +1,24 @@
+{
+  "name": "Darkdocs",
+  "version": "0.2",
+  "description": "Darkens up Google Docs.",
+  "permissions": ["activeTab", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://docs.google.com/*"],
+      "css": ["style.css"],
+      "js": ["jquery-3.3.1.min.js", "content.js"]
+    }
+  ],
+  "browser_action": {
+      "name": "Click to toggle Darkdocs on or off"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2
+}

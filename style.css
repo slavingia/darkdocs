@@ -1,0 +1,44 @@
+.darkdocs #docs-chrome,
+.darkdocs .docs-titlebar-buttons,
+.darkdocs #docs-toolbar-wrapper,
+.darkdocs #docs-editor,
+.darkdocs .kix-page,
+.darkdocs .kix-page-content-wrapper,
+.darkdocs .docs-ui-unprintable
+{
+  background: #141414 !important;
+}
+
+.darkdocs .kix-page-paginated,
+.darkdocs .kix-paginateddocumentplugin-compact-mode
+{
+  box-shadow: 0 0 0 0.75pt #333 !important;
+}
+
+.darkdocs #docs-menubar
+{
+  color: white !important;
+}
+
+.darkdocs .kix-wordhtmlgenerator-word-node
+{
+  color: #c1c1c1 !important;
+}
+
+.darkdocs .docs-toolbar-wrapper,
+.darkdocs .goog-toolbar-separator,
+.darkdocs .docs-horizontal-ruler,
+.darkdocs #docs-toolbar-wrapper
+{
+  border-color: #333 !important;
+}
+
+.darkdocs .goog-toolbar-button,
+.darkdocs .docs-ruler-background-inner,
+.darkdocs .goog-toolbar-combo-button,
+.darkdocs .goog-toolbar-menu-button,
+.darkdocs .docs-title-input
+{
+  background: #777 !important;
+}
+
