@@ -42,3 +42,13 @@
   background: #777 !important;
 }
 
+/* Items in the left navigation menu */
+.navigation-item .navigation-item-level-0 {
+  color: grey !important;
+}
+
+/* Bullet Point Styling */
+.goog-inline-block, .kix-lineview-text-block {
+  color: rgb(128, 128, 128) !important;
+}
+
