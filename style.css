@@ -52,3 +52,7 @@
   color: rgb(128, 128, 128) !important;
 }
 
+/* Text on the Share button at the top right of the screen */
+.docs-material #docs-titlebar-share-client-button .jfk-button {
+  color: rgb(0, 0, 139) !important;
+}
