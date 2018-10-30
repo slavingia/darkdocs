@@ -42,3 +42,17 @@
   background: #777 !important;
 }
 
+/* Items in the left navigation menu */
+.navigation-item .navigation-item-level-0 {
+  color: #333 !important;
+}
+
+/* Bullet Point Styling */
+.goog-inline-block, .kix-lineview-text-block {
+  color: #777 !important;
+}
+
+/* Text on the Share button at the top right of the screen */
+.docs-material #docs-titlebar-share-client-button .jfk-button {
+  color: #00008b !important;
+}
