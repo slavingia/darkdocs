@@ -59,11 +59,6 @@
   color: #00008b !important;
 }
 
-/* first comment in a thread */
-.docos-anchoreddocoview .docos-replyview-first.docos-anchoredreplyview {
-	background: #333333 !important;
-}
-
 /* text color in comment body */
 .docos-anchoredreplyview-body {
 	color: #EEEEEE !important;
