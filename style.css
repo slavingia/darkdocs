@@ -43,7 +43,9 @@
 }
 
 /* Items in the left navigation menu */
-.navigation-item .navigation-item-level-0 {
+.navigation-item .navigation-item-level-0, 
+.docos-anchoreddocoview .docos-replyview-first.docos-anchoredreplyview
+{
   color: #333 !important;
 }
 
@@ -55,4 +57,20 @@
 /* Text on the Share button at the top right of the screen */
 .docs-material #docs-titlebar-share-client-button .jfk-button {
   color: #00008b !important;
+}
+
+/* first comment in a thread */
+.docos-anchoreddocoview .docos-replyview-first.docos-anchoredreplyview {
+	background: #333333 !important;
+}
+
+/* text color in comment body */
+.docos-anchoredreplyview-body {
+	color: #EEEEEE !important;
+}
+
+/* comment replies is a darker grey to distinguish them from the first comment in the thread */
+
+.docos-anchoredreplyview, .docos-showrepliesbutton, .docos-anchoreddocoview-input-pane {
+	background: #A9A9A9 !important;
 }
