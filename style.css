@@ -49,10 +49,10 @@
 
 /* Bullet Point Styling */
 .goog-inline-block, .kix-lineview-text-block {
-  color: rgb(128, 128, 128) !important;
+  color: #777 !important;
 }
 
 /* Text on the Share button at the top right of the screen */
 .docs-material #docs-titlebar-share-client-button .jfk-button {
-  color: rgb(0, 0, 139) !important;
+  color: #00008b !important;
 }
