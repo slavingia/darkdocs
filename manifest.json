@@ -1,6 +1,6 @@
 {
   "name": "Darkdocs",
-  "version": "0.3",
+  "version": "0.4",
   "description": "Darkens up Google Docs.",
   "permissions": ["activeTab", "storage"],
   "background": {

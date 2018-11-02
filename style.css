@@ -59,6 +59,11 @@
   color: #00008b !important;
 }
 
+/* Cursor */
+.kix-cursor-caret {
+  border-color: #fff !important;
+}
+
 /* text color in comment body */
 .docos-anchoredreplyview-body {
 	color: #EEEEEE !important;
