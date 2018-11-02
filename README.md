@@ -1,6 +1,9 @@
 ## darkdocs
 
-An extension for Google Chrome.
+An extension to darken up Google Docs.
+
+For Chrome: https://chrome.google.com/webstore/detail/darkdocs/jagekcabhgjlinjdcpocekgnnfidnmpi
+For FireFox: https://addons.mozilla.org/addon/darkdocs/
 
 ### To develop locally:
 
