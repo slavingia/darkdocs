@@ -56,3 +56,8 @@
 .docs-material #docs-titlebar-share-client-button .jfk-button {
   color: #00008b !important;
 }
+
+/* Cursor */
+.kix-cursor-caret {
+  border-color: #fff !important;
+}
