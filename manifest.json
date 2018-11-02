@@ -16,10 +16,15 @@
     }
   ],
   "browser_action": {
-      "name": "Click to toggle Darkdocs on or off"
+    "name": "Click to toggle Darkdocs on or off"
   },
   "icons": {
     "128": "icon.png"
+  },
+  "applications": {
+    "gecko": {
+      "id": "darkdocs@darkdocs.com"
+    }
   },
   "manifest_version": 2
 }
