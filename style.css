@@ -43,19 +43,20 @@
 }
 
 /* Items in the left navigation menu */
-.navigation-item .navigation-item-level-0, 
-.docos-anchoreddocoview .docos-replyview-first.docos-anchoredreplyview
+.darkdocs .navigation-item .navigation-item-level-0, 
+.darkdocs .docos-anchoreddocoview .docos-replyview-first.docos-anchoredreplyview
 {
   color: #333 !important;
 }
 
 /* Bullet Point Styling */
-.goog-inline-block, .kix-lineview-text-block {
+.darkdocs .goog-inline-block,
+.darkdocs .kix-lineview-text-block {
   color: #777 !important;
 }
 
 /* Text on the Share button at the top right of the screen */
-.docs-material #docs-titlebar-share-client-button .jfk-button {
+.darkdocs .docs-material #docs-titlebar-share-client-button .jfk-button {
   color: #00008b !important;
 }
 
@@ -65,12 +66,13 @@
 }
 
 /* text color in comment body */
-.docos-anchoredreplyview-body {
+.darkdocs .docos-anchoredreplyview-body {
 	color: #EEEEEE !important;
 }
 
 /* comment replies is a darker grey to distinguish them from the first comment in the thread */
 
-.docos-anchoredreplyview, .docos-showrepliesbutton, .docos-anchoreddocoview-input-pane {
+.darkdocs .docos-anchoredreplyview, .docos-showrepliesbutton,
+.darkdocs .docos-anchoreddocoview-input-pane {
 	background: #A9A9A9 !important;
 }
