@@ -1,0 +1,141 @@
+.darkdocs .kix-page,
+.darkdocs .kix-page-content-wrapper,
+.darkdocs .docs-ui-unprintable,
+.darkdocs #docs-editor
+{
+  background: #202124 !important;
+}
+
+.darkdocs #docs-chrome,
+.darkdocs .docs-titlebar-buttons,
+.darkdocs #docs-toolbar-wrapper
+{
+  background: #292a2d !important;
+}
+
+.darkdocs .kix-page-paginated,
+.darkdocs .kix-paginateddocumentplugin-compact-mode
+{
+  box-shadow: 0 0 0 0.75pt #333 !important;
+}
+
+.darkdocs #docs-menubar
+{
+  color: #292a2d !important;
+}
+
+.darkdocs .goog-menu
+{
+	background-color: #28292c !important;
+
+}
+
+
+/*TEXT*/
+
+.darkdocs .goog-menuitem
+{
+	color: #9aa0a6 !important;
+}
+
+
+.darkdocs 
+.goog-control-hover, 
+.goog-control-open, 
+.docs-gm, 
+.goog-control
+{
+	background-color: #28292c !important;
+}
+.darkdocs .kix-wordhtmlgenerator-word-node
+{
+  color: #9aa0a6 !important;
+}
+
+.darkdocs .goog-menuitem-highlight
+{
+	border-color: #28292c !important; 
+}
+
+.darkdocs .docs-toolbar-wrapper,
+.darkdocs .goog-toolbar-separator,
+.darkdocs .docs-horizontal-ruler,
+.darkdocs #docs-toolbar-wrapper
+{
+  border-color: #333 !important;
+}
+
+.darkdocs .goog-toolbar-button,
+.darkdocs .docs-ruler-background-inner,
+.darkdocs .goog-toolbar-combo-button,
+.darkdocs .goog-toolbar-menu-button,
+.darkdocs .docs-title-input
+{
+  background: #292a2d !important;
+  color: #292a2d !important
+}
+
+/* Items in the left navigation menu */
+.darkdocs .navigation-item .navigation-item-level-0, 
+.darkdocs .docos-anchoreddocoview .docos-replyview-first.docos-anchoredreplyview
+{
+  color: #333 !important;
+}
+
+/* Bullet Point Styling */
+.darkdocs .goog-inline-block,
+.darkdocs .kix-lineview-text-block {
+  color: #5f6368 !important;
+}
+
+/* Text on the Share button at the top right of the screen */
+.darkdocs .docs-material #docs-titlebar-share-client-button .jfk-button {
+  color: #fff !important;
+}
+
+/* Cursor */
+.darkdocs .kix-cursor-caret {
+  border-color: #fff !important;
+}
+
+/* text color in comment body */
+.darkdocs .docos-anchoredreplyview-body {
+	color: #EEEEEE !important;
+}
+
+/* comment replies is a darker grey to distinguish them from the first comment in the thread */
+
+.darkdocs .docos-anchoredreplyview, .docos-showrepliesbutton,
+.darkdocs .docos-anchoreddocoview-input-pane {
+	background: #A9A9A9 !important;
+}
+.darkdocs .companion-app-switcher-container {
+	background-color: #292a2d !important;
+	border-left-color: #333 !important;
+	border-top-color: #dadce0 !important;
+}
+.darkdocs .navigation-widget-hat {
+border-bottom-color: #202124 !important;
+}
+.darkdocs .docs-gm-sidebars, ::-webkit-scrollbar-thumb {
+	background-color: #5f6368 !important;
+}
+.darkdocs .docs-companion-app-switcher-container {
+	
+border-top-color: #333 !important;
+}
+
+.darkdocs .docs-vertical-ruler {
+	border-right-color: #333 !important;
+}
+.darkdocs path[Attributes Style] {
+	fill: #5f6368 !important;
+}
+/* BETA
+.darkdocs .docs-homescreen-container {
+    background-color: #292a2d !important;
+}
+.darkdocs element.style {
+	background: #292a2d !important;
+}
+/*
