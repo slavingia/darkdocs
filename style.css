@@ -4,10 +4,18 @@
 .darkdocs #docs-editor,
 .darkdocs .kix-page,
 .darkdocs .kix-page-content-wrapper,
-.darkdocs .docs-ui-unprintable
+.darkdocs .docs-ui-unprintable,
+.darkdocs .navigation-widget,
+.darkdocs .docs-navigation-tab-button
 {
   background: #141414 !important;
 }
+
+.darkdocs .goog-button-hover
+{
+  background: #1a1a1a !important;
+}
+
 
 .darkdocs .kix-page-paginated,
 .darkdocs .kix-paginateddocumentplugin-compact-mode
